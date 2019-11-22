@@ -1,0 +1,32 @@
+.todo-item {
+  display: flex;
+}
+
+.todo-group {
+  flex: 95%;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px #ccc solid;
+}
+
+.todo-group input[type='checkbox'] {
+  flex: 5%;
+}
+
+.todo-group p {
+  flex: 95%;
+}
+
+.btn-del {
+  flex: 5%;
+  padding: 0 5px;
+  background: #BF360C;
+  color: #222;
+  transition: 0.2s ease-in-out;
+}
+
+.btn-del:hover {
+  background: #bf0000;
+  flex: 15%;
+}

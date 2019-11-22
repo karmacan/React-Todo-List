@@ -1,0 +1,25 @@
+.flex-form {
+  display: flex;
+  align-items: stretch;
+  padding: 2px;
+}
+
+.input-text {
+  flex: 85%;
+  padding: 4px 0;
+  font-size: 14pt;
+}
+
+.btn-sub {
+  flex: 15%;
+  color: #fff;
+  background: #5e5e5e;
+  border-bottom: 1px #ccc solid;
+  margin: 0 2px;
+  padding: 5px;
+  font-size: 12pt;
+}
+
+.btn-sub:hover {
+  background: #333333;
+}

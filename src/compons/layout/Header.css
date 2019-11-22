@@ -1,0 +1,17 @@
+.head {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+.flex-row {
+  display: flex;
+  align-items: stretch;
+  padding: 2px;
+}
+
+.flex-unit {
+  flex: 1;
+  color: #fff;
+}
