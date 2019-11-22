@@ -8,7 +8,7 @@ Simple note list browser app.
 React based list app. Notes persistance inplemented via Local Storage.
 
 <hr />
-<h2>App Screenshot</h2>
+<h2>App Screen</h2>
 <img src="./screenshot.png" />
 
 <hr />
